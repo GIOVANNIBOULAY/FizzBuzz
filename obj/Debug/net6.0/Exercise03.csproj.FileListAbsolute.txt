@@ -1,0 +1,15 @@
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/Exercise03.csproj.AssemblyReference.cache
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/Exercise03.AssemblyInfoInputs.cache
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/Exercise03.AssemblyInfo.cs
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/bin/Debug/net6.0/Exercise03
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/bin/Debug/net6.0/Exercise03.deps.json
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/bin/Debug/net6.0/Exercise03.runtimeconfig.json
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/bin/Debug/net6.0/Exercise03.dll
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/bin/Debug/net6.0/Exercise03.pdb
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/Exercise03.dll
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/refint/Exercise03.dll
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/Exercise03.pdb
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/Exercise03.genruntimeconfig.cache
+/Users/giovan/Desktop/PROJECTS/BOOK CODES/CHAPTER03/Exercise03/obj/Debug/net6.0/ref/Exercise03.dll
